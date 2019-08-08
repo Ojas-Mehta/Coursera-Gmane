@@ -5,7 +5,7 @@ The project is a part of "Capstone: Retrieving, Processing, and Visualizing Data
 Installed SQLite browser to view and modify the database.
 The link for the email archieve used is : http://mbox.dr-chuck.net/sakai.devel/
 
-Overview in short is the following. For detailed explanation refer to README.txt that was provided as a part of course.
+Overview in short is written below. For detailed explanation refer to README.txt that was provided as a part of course.
 
 1) gmane.py downloads emails from mbox.dr-chuck.net and stores it in a raw form in content.sqlite.
 
