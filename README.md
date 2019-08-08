@@ -1,4 +1,4 @@
-#"Capstone: Retrieving, Processing, and Visualizing Data with Python" -Coursera
+# "Capstone: Retrieving, Processing, and Visualizing Data with Python" -Coursera
 
 The project is a part of "Capstone: Retrieving, Processing, and Visualizing Data with Python" offered on Coursera.
 
